@@ -1,5 +1,5 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## Yokai Watch 3
+Project team: Bjorn Ravensbergen, Quinn Croese, 
 
 Platform:
 [jullie platfom]
@@ -36,7 +36,7 @@ Platform:
 | Asset planning (pdf)                  | [AssetPlanning]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
+   [Backlog]: <https://trello.com/b/LX7GJKZ7/mythe-trello>
    [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
