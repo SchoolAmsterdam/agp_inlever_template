@@ -2,7 +2,7 @@
 Project team: Bjorn Ravensbergen, Quinn Croese, 
 
 Platform:
-[jullie platfom]
+Unity (Virtual Studio Code 2019)
 
 ### Korte omschrijving van de game
 ...
@@ -37,11 +37,11 @@ Platform:
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://trello.com/b/LX7GJKZ7/mythe-trello>
-   [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
-   [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
-   [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
-   [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
+   [Logboek]: <https://github.com/SchoolAmsterdam/agp_inlever_template/blob/master/producten/logboek.pdf>
+   [GameDesignDoc]: <https://github.com/SchoolAmsterdam/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
+   [RetrospectiveVerslagen]: <https://github.com/SchoolAmsterdam/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
+   [ReviewVerslagen]: <https://github.com/SchoolAmsterdam/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
    [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
-   [AssetPlanning]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
+   [AssetPlanning]: <https://github.com/SchoolAmsterdam/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
    
