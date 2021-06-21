@@ -1,4 +1,4 @@
-## Yokai Watch 3
+## Yokai Monogatari
 Project team: Bjorn Ravensbergen, Quinn Croese, 
 
 Platform:
