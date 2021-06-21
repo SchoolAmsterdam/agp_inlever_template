@@ -43,5 +43,5 @@ Unity (Virtual Studio Code 2019)
    [ReviewVerslagen]: <https://github.com/SchoolAmsterdam/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://github.com/SchoolAmsterdam/Yokai>
    [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
-   [AssetPlanning]: <https://github.com/SchoolAmsterdam/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
+   [AssetPlanning]: <https://github.com/SchoolAmsterdam/agp_inlever_template/blob/master/producten/Assetplanning.pdf>
    
