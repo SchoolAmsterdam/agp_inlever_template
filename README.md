@@ -41,7 +41,7 @@ Unity (Virtual Studio Code 2019)
    [GameDesignDoc]: <https://github.com/SchoolAmsterdam/agp_inlever_template/blob/master/producten/Yokai_game_concept_doc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/SchoolAmsterdam/agp_inlever_template/blob/master/producten/Sprint_Retrospective.pdf>
    [ReviewVerslagen]: <https://github.com/SchoolAmsterdam/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
-   [Prototype]: <https://www.mijnmytheprototype.nl>
+   [Prototype]: <https://github.com/SchoolAmsterdam/Yokai>
    [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
    [AssetPlanning]: <https://github.com/SchoolAmsterdam/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
    
