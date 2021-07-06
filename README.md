@@ -38,7 +38,7 @@ Unity (Virtual Studio Code 2019)
 
    [Backlog]: <https://trello.com/b/LX7GJKZ7/mythe-trello>
    [Logboek]: <https://github.com/SchoolAmsterdam/agp_inlever_template/blob/master/producten/Logboek.pdf>
-   [GameDesignDoc]: <https://github.com/SchoolAmsterdam/agp_inlever_template/blob/master/producten/Yokai_game_concept_doc.pdf>
+   [GameDesignDoc]: <https://github.com/SchoolAmsterdam/agp_inlever_template/blob/d394f9ea6079657f18d57a557d66fd97be0a34b7/producten/Yokai%20game%20concept%20doc2.pdf>
    [RetrospectiveVerslagen]: <https://github.com/SchoolAmsterdam/agp_inlever_template/blob/master/producten/Sprint_Retrospective.pdf>
    [ReviewVerslagen]: <https://github.com/SchoolAmsterdam/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://github.com/SchoolAmsterdam/Yokai>
